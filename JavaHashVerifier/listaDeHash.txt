@@ -1,0 +1,8 @@
+
+{CaminhoArquivo: C:\Users\jgabriel\Downloads\JavaSecurityHash-main\JavaSecurityHash-main\src\testeHash\Hino1.txt,
+NomeArquivo: Hino1.txt,
+Hash: dc7d59d8664bc5354fb09e50a26ff7c2}
+
+{CaminhoArquivo: C:\Users\jgabriel\Downloads\JavaSecurityHash-main\JavaSecurityHash-main\src\testeHash\Hino2.txt,
+NomeArquivo: Hino2.txt,
+Hash: 924f3c5b9de77968dc8c1276d4438207}
